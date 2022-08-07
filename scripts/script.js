@@ -1,3 +1,5 @@
+const bookDisplayContainer = document.querySelector(".book-display-container");
+
 let library = [];
 
 function Book() {
